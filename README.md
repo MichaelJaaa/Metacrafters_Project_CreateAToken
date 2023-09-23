@@ -14,11 +14,17 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Final_Assessment_ETH_B" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it.
+
 By clicking on the drop-down button beside "Burn", you will see two blank boxes that will ask for an Address and Value to be deducted on your total tokens.
+
 By clicking on the drop-down button beside "Mint", you will see two blank boxes that will ask for an Address and Value to be added on your total tokens.
+
 By clicking on the button "tokenAbbrv", you will see the token name abbreviation which is "VCN"
+
 By clicking on the button "tokenName", you will see the token name which is "VALTOKEN"
+
 By clicking on the button "tokenName", you will see your total number of tokens.
+
 Be advised that the total token value could never be below zero, so you can never have a negative amount of token.
 ## Author
 202010764
